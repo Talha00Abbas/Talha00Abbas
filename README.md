@@ -38,23 +38,20 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - moment\
-📍 **Xp Inc** - São Paulo/SP, Brazil
-  
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+- 👨‍💻 **Mid Level Game Developer**\
+📆 2022 - moment\
+📍 **Samrnovative Labs** - Remote, Islamabad
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - oct/2021\
-📍 **Avanade** - São Paulo/SP, Brazil
-  
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
+- 👨‍💻 **Junior Game Developer**\
+📆 2021 - Jan/2022\
+📍 **We.R.Play** - Remote, Islamabad
+
+
+- 👨‍💻 **Apprentice C# Developer**\
 📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+📍 **Mercurial Minds** - On-Site/Islamabad
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
