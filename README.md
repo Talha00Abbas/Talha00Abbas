@@ -23,29 +23,9 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
   </a>
 </p>
 
-#
-
-### 📊 Metrics
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha00Abbas&theme=tokyonight" /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Talha00Abbas&theme=tokyonight" width = 400px padding-top = 200px/>
-
 
 #
 
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
 <details>
   <summary>📃 Resume</summary>
 
@@ -132,6 +112,31 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
 <img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
 <img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
 
--->
-
 </details>
+
+
+
+#
+
+
+#
+
+### 📊 Metrics
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha00Abbas&theme=tokyonight" /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Talha00Abbas&theme=tokyonight" width = 400px padding-top = 200px/>
+
+
+#
+
+
+
+
+
+
+
+
+
+
+
