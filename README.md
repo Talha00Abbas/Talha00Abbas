@@ -32,9 +32,9 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Computer Science**\
+📆 2021 - 2025\
+📍 **National University of Computer and Emerging Sciences, FAST** - Islamabad, Pakistan
 
 ## Experience
 
