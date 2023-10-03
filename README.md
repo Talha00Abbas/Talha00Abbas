@@ -27,5 +27,7 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
 
 #
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Talha00Abbas}&theme={radical}" /></a>
 
+#
 
