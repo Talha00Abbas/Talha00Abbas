@@ -6,43 +6,7 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
 
 <div align = center>
 
-<br>
-<br>
-<br>
-
-[![Badge Buttons]][Buttons]    
-[![Badge Spacing]][Spacing]    
-[![Badge Links]][Links]
-
-[![Badge Disable]][Disable]    
-[![Badge Licenses]][Licenses]    
-[![Badge Wiki]][Wiki]
-
-[![Badge Separators]][Separators]    
-[![Badge Math]][Math]
-
-<br>
-<br>
-<br>
-
-###   Keep It             Make It             Give It             Make It   <br><br>Ｓｈｏｒｔ       Ｓｉｍｐｌｅ       Ｓｐａｃｅ       Ｖｉｓｕａｌ
-
-<br>
-<br>
-<br>
-
-### <kbd>  <br>  `/Documentation/`  Folder    **>**    GitHub Wiki    **>**    30 Page README  <br>  </kbd>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+[![Badge Buttons]][Buttons]
 
 </div>
 
