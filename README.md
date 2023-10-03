@@ -18,7 +18,7 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://talha00abbas.github.io/Talha-Abbas/">
     <img src="https://skillicons.dev/icons?i=unity,cs,blender,cpp,github" />
   </a>
 </p>
