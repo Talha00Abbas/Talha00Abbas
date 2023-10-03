@@ -69,33 +69,6 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
 - 👨‍💻 **Apprentice C# Developer**\
 📆 2021 - Aug/2021\
 📍 **Mercurial Minds** - On-Site/Islamabad
-
-<!--## Skills
-
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
-
-**Programming**
-
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
-**Operating Systems**
-
-<img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
-<img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
-
--->
-
 </details>
 
 #
@@ -109,13 +82,7 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
 
 #
 
-
-
-
-
-
-
-
-
-
+<details>
+ <summary><h3>👨‍💻 My Journey</h3></summary>
+   Twenty years ago I saw the first light of day. In my early days I spent most of my time playing video games with my brothers. Over the years I developed a questionably healthy interest and curiosity towards games and how they were made. I spent quite a lot of time in level editors and development journeys than playing the actual games. That curiosity turned me into what I am today, a creative professional yet still eager to learn more tricks of the trade. In 2025 I will receive my bachelor's degree in Computer Sciences with major in Game Development at the FAST University of Computer Sciences. I keep improving myself as the industry moves forward. During my studies, I have worked for a years as Jr.Game Programmer at a Islamabad game studio We.R.Play. In 2022 I joined Smarnovative Labs as Game Programmer & System Automator. During my journey along the way, I've gathered new insights and different perspectives. New engines, new tools, met new people, improved my scripting abilities. In my spare time I sometimes work on personal projects, varying from commercial projects to small hobby projects - either way I'm always learning.
 
