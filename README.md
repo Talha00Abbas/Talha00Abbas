@@ -25,12 +25,12 @@ I'm a Unity Game Developer and a Gaming enthusiast building my version of virtua
 
 #
 
-### 🧰 Programming Language Stats
+### 📊 Metrics
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha00Abbas&theme=tokyonight" /></a>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Talha00Abbas&theme=tokyonight" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha00Abbas&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Talha00Abbas&theme=tokyonight" width = 50px padding-top = 10px/>
 
 #
 
